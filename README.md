@@ -1,3 +1,5 @@
+
+
 # MentalHealthBot
 
 
@@ -7,6 +9,11 @@ To use the MentalHealthBot, we'll need to follow some steps:
 3. Run on terminal "pip install -r -u requirements.txt"
 4. Run on terminal "streamlit run app.py"
 
-- ![Alt text](Working App.png)
-- ![Alt text](Working App2.png)
-- ![Alt text](Working App3.png)
+### Example 1
+![Alt text](https://github.com/gabsgoms10/MentalHealthBot/blob/main/Working%20App.png)
+
+### Example 2
+![Alt text](https://github.com/gabsgoms10/MentalHealthBot/blob/main/Working%20App2.png)
+
+### Example 3
+![Alt text](https://github.com/gabsgoms10/MentalHealthBot/blob/main/Working%20App3.png)
